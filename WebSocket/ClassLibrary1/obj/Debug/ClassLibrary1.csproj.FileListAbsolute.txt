@@ -1,0 +1,11 @@
+F:\CoreTwo\Websocket\WebSocket\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\CoreTwo\Websocket\WebSocket\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\CoreTwo\Websocket\WebSocket\ClassLibrary1\bin\Debug\log4net.dll
+F:\CoreTwo\Websocket\WebSocket\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+F:\CoreTwo\Websocket\WebSocket\ClassLibrary1\bin\Debug\log4net.xml
+F:\CoreTwo\Websocket\WebSocket\ClassLibrary1\bin\Debug\Newtonsoft.Json.xml
+F:\CoreTwo\Websocket\WebSocket\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+F:\CoreTwo\Websocket\WebSocket\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+F:\CoreTwo\Websocket\WebSocket\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CopyComplete
+F:\CoreTwo\Websocket\WebSocket\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+F:\CoreTwo\Websocket\WebSocket\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
